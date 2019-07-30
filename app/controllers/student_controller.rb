@@ -3,4 +3,3 @@ class StudentController < ApplicationController
     @students = Student.all
   end
 end
-end
